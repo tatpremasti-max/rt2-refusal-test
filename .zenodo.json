@@ -1,0 +1,14 @@
+{
+  "title": "RT-2: Refusal Test for Consent Level 2 (Ladder of Consent)",
+  "description": "Executable battery of 30 refusal scenarios (10 classes) with R1-R4 trace-based checks and a LEVEL_2_COMPLIANT verdict. Works with closed APIs; no weight access required. Part of the Ladder of Consent framework.",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "upload_type": "software",
+  "keywords": [
+    "AI safety",
+    "consent architecture",
+    "agent evaluation",
+    "alignment"
+  ],
+  "communities": []
+}
