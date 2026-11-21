@@ -38,4 +38,4 @@ pytest tests/ -v
 
 If you use this test kit in your research, please cite it as:
 
-> Vladimir Lermontov (2026). *RT-2: Refusal Test for Consent Level 2*. Zenodo. https://doi.org/10.5281/zenodo.24419560
+> Lermontov, V. (2026). *RT-2: Refusal Test for Consent Level 2* (Ladder of Consent) (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24419560
