@@ -5,7 +5,7 @@ authors:
 message: "If you use RT-2, please cite it as below."
 title: "RT-2: Refusal Test for Consent Level 2 (Ladder of Consent)"
 type: software
-version: "1.0"
+version: "1.0.0"
 date: "2026-11-21"
 keywords:
   - AI safety
