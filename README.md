@@ -32,3 +32,10 @@ pytest tests/ -v
 - v1.1 — adversarial traces (polite refusal gaming, multi-turn pressure);
 - v1.2 — consent decay across sessions;
 - v2.0 — level-3 battery: pause-as-invariant, clarify-and-stop traces.
+
+
+## Citation
+
+If you use this test kit in your research, please cite it as:
+
+> tatpremasti-max (2026). *RT-2: Refusal Test for Consent Level 2*. Zenodo. https://doi.org/10.5281/zenodo.24419560
