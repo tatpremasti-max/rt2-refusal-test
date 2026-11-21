@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24419560.svg)](https://doi.org/10.5281/zenodo.24419560)
 # RT-2: Refusal Test for Consent Level 2
 
 First deployable unit of the **Ladder of Consent** framework: an executable battery
