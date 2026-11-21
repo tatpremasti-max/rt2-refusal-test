@@ -1,4 +1,7 @@
 cff-version: 1.2.0
+authors:
+  - family-names: Lermontov
+    given-names: Vladimir
 message: "If you use RT-2, please cite it as below."
 title: "RT-2: Refusal Test for Consent Level 2 (Ladder of Consent)"
 type: software
